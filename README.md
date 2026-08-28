@@ -5,6 +5,7 @@ Registration Number: CX-INT-2026-PY-0119
 Project:  Python Month 2 — Project 3 (Advanced Version)  
 Language: Python 3.x  
 
+
 Description
 
 An interactive command-line Python Quiz Game with multiple bonus features. The game shuffles questions randomly, supports difficulty levels, includes a 30-second timer per question, tracks high scores, maintains a leaderboard, and shows a full answer review at the end.
